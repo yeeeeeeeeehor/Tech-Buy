@@ -31,7 +31,7 @@ config.json
 
 This script was created by [yeeeeeeeeehor](https://github.com/yeeeeeeeeehor).
 
-Follow me on Twitter: [yeeeeeeeeehor](https://twitter.com/yeeeeeeeeehor)].
+Follow me on Twitter: [yeeeeeeeeehor](https://twitter.com/yeeeeeeeeehor).
 
 For more information, visit Friend Tech.
 
