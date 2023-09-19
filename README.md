@@ -29,11 +29,11 @@ config.json
 
 ## Acknowledgments
 
-This script was created by [yeeeeeeeeehor].
+This script was created by [yeeeeeeeeehor](https://github.com/yeeeeeeeeehor).
 
-Follow me on Twitter: [[Your Twitter Handle](https://twitter.com/yeeeeeeeeehor)].
+Follow me on Twitter: [yeeeeeeeeehor](https://twitter.com/yeeeeeeeeehor)].
 
 For more information, visit Friend Tech.
 
 
-## Made with ❤️ by [yeeeeeeeeehor]
+## Made with ❤️ by [yeeeeeeeeehor](https://github.com/yeeeeeeeeehor)
